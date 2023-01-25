@@ -2,7 +2,7 @@
 # Game of Thrones Quotes
 
 A simple app which shows some of the legendary quotes given by characters of Game of Thrones series. 
-Firebase is also used in this app for Notifcation Functionality.
+Firebase is also used in this app for Notification Functionality.
 
 GOT quotes api: https://api.gameofthronesquotes.xyz/v1/random
 
